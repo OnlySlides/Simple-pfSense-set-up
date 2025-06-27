@@ -16,7 +16,7 @@ Sources used for this set-up: [MyDFIR on YouTube](https://www.youtube.com/watch?
 - CMD commands (ping & ipconfig)
 
 ### Takeaways
-This project made me realize that setting up the environment can feel more complicated than configuring the software. Multiple sources are listed because the LAN IP in the pfSense shell did not match the default gateway in the Windows machine. All sources contributed in getting familiar with setting up pfSense. Rules creation at the end was a trial and error process on my own to see how they affect pings from the Windows virtual machine to the default gateway which is also the pfSense LAN IP address. Biggest takeaway is managing firewalls in an enterprise setting sounds very complicated and intricate. 
+This project made me realize that setting up the environment can feel more complicated than configuring the software. Multiple sources are listed because the LAN IP in the pfSense shell did not match the default gateway in the Windows machine. All sources contributed in getting familiar with setting up pfSense. Rules creation at the end was a trial and error process on my own to see their impact on pings from the Windows virtual machine to the default gateway which is also the pfSense LAN IP address. Biggest takeaway is managing firewalls in an enterprise setting sounds very complicated and intricate. 
 
 ### Network Diagram
 <p align="center">
